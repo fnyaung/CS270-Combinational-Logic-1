@@ -1,0 +1,38 @@
+In this module, you can cover all the major concepts with just the videos or just the readings. 
+However, I'd still recommend reviewing both when you have time. The videos probably have small 
+details or helpful hints that the readings do not have, and vice versa.
+
+Videos:
+1) Basic Boolean Algebraic Operations | OR - AND - NOT operations:
+   https://www.youtube.com/watch?v=X3R1QHYyvSE
+2) Laws of Boolean Algebra - Part 1 | Boolean Algebra & Logic Gates
+   https://www.youtube.com/watch?v=xEkxu6jMSFA
+3) Laws of Boolean Algebra - Part 2 | Boolean Algebra & Logic Gates:
+   https://www.youtube.com/watch?v=1NkNibqI61Q
+4) De Morgan's Laws / Theorems | Boolean Algebra & Logic Gates:
+   https://www.youtube.com/watch?v=W4KICOSIQGs
+5) Sum Of Products - SOP | Boolean Algebra & Logic Gates:
+   https://www.youtube.com/watch?v=sP5u58Ao85U
+6) Product Of Sums - POS | Boolean Algebra & Logic Gates:
+   https://www.youtube.com/watch?v=hSgeyLSmlSg
+7) Minterms(SOP) & Maxterms(POS) | Boolean Algebra:
+   https://www.youtube.com/watch?v=TMxMPJeJ_18
+8) Karnaugh Maps | K-Maps - Boolean Algebra:
+   https://www.youtube.com/watch?v=_x8T3H1tcWQ
+9) K-map Numerical with 3 Variable SOP Boolean Expresson | Boolean Algebra:
+   https://www.youtube.com/watch?v=jRBTmqbeNuA
+10) 4 - Variable K-Map Problem with SOP Expressions | Boolean Algebra:
+    https://www.youtube.com/watch?v=1haoxh9byZ8
+11) 4 - Variable K-Map Problem with Don't Care Condition | Boolean Algebra:
+    https://www.youtube.com/watch?v=eXNnPJw3l7s
+    
+Readings:
+1) Computer Mathematics (J. Craig Lowery, Ph.D.):  
+   http://sandbox.mc.edu/~bennet/cs110/textbook/
+   * Please read the fifth module. *
+2) Introduction to Karnaugh Maps (Andrew W.H. House, University of Toronto):
+   http://www.eecg.toronto.edu/~ahouse/mirror/engi3861/kmaps.pdf
+   * Note that this text contains some small references to hardware (specifically, 
+   logic gates and multiplexors) which we have not yet covered. *
+3) Karnaugh Maps - Rules of Simplification:
+   http://www.ee.surrey.ac.uk/Projects/Labview/minimisation/karrules.html
