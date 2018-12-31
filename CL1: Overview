@@ -1,0 +1,20 @@
+In this module, you'll learn about an area of mathematics called Boolean algebra. 
+The fundamental unit in boolean algebra is a variable that can have one of only two 
+possible values - true or false (sometimes represented as 1 or 0). This module is aligned with course outcome E:
+
+Design simple combinational circuits and use Boolean Algebra and standard circuit minimization techniques to simplify them.
+
+While you won't learn about the "circuits" part of this outcome in this module, you'll build the 
+necessary foundational knowledge of Boolean algebra and minimization to tackle concepts related to 
+actual hardware circuits in the next module.
+
+As you learned in the last module, computers are good at storing and transmitting information as sequences 
+of 1s and 0s. For this reason, learning Boolean algebra is an essential part of learning about the inner 
+workings of a computer.
+
+You'll learn about the logical operators AND, OR, and NOT. These operators can be used in conjunction with 
+Boolean variables to form larger Boolean expressions. You'll also learn some rules that can help in proving 
+equivalence between two boolean expressions and reducing a boolean expression to a simpler form.
+
+Once you've learned the fundamentals of boolean algebra, you'll learn to use Karnaugh maps to simply boolean 
+expressions in sum-of-products form.
